@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chess Club",
+    "description": "Play chess and improve your skills.",
+    "schedule": "Wednesdays 3:30-4:30pm",
+    "max_participants": 20,
+    "participants": []
+  },
+  {
+    "name": "Programming Class",
+    "description": "Learn programming concepts and build projects.",
+    "schedule": "Fridays 4:00-5:00pm",
+    "max_participants": 25,
+    "participants": []
+  },
+  {
+    "name": "Gym Class",
+    "description": "Stay active with fun gym activities.",
+    "schedule": "Mondays 3:00-4:00pm",
+    "max_participants": 30,
+    "participants": []
+  },
+  {
+    "name": "GitHub Skills",
+    "description": "Learn practical coding and collaboration skills with GitHub. Part of the GitHub Certifications program.",
+    "schedule": "Thursdays 4:00-5:00pm",
+    "max_participants": 30,
+    "participants": []
+  }
+]
